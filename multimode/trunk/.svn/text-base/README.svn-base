@@ -1,0 +1,10 @@
+This package provides a multi-mode receiver for common "analog" modes including FM, AM, SSB, WFM, and TV-FM.
+
+Run the install:
+
+make install
+
+Which will copy the .py files to $HOME/bin it will remind you to update your PATH and PYTHONPATH
+  to include $HOME/bin, so that the functions work correctly.
+  
+ 
